@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rst789
-- 👀 I’m interested in Software Developing
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, JavaScript
 
 <!---
