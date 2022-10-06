@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rst789 ABSOLUTE CODING GOD
+- 👋 Hi, I’m @rst789
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, JavaScript
 
